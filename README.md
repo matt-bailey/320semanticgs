@@ -12,4 +12,4 @@ This is a vanilla WordPress theme using **320 And Up** as a starter point. It in
 
 I put it together as a starting point for my some of my own projects and I thought others might find it useful too. I've left most of the default styling from **320 And Up** untouched - that's up to you to change ;)
 
-If you spot any problems let me know.
+*If you spot any problems let me know.*

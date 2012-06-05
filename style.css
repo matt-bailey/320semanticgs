@@ -122,24 +122,6 @@ section {
 }
 body {
   width: 100%;
-  *zoom: 1;
-  *zoom: 1;
-}
-body:before,
-body:after {
-  display: table;
-  content: "";
-}
-body:after {
-  clear: both;
-}
-body:before,
-body:after {
-  content: "";
-  display: table;
-}
-body:after {
-  clear: both;
 }
 /* Page =================================================== */
 html {
@@ -2066,9 +2048,6 @@ table tbody tr:hover th {
 }
 @media only screen and (min-width: 1382px) {
   /* 1382 =================================================== */
-  body {
-    max-width: 1440px;
-  }
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   /* 2x =================================================== */
